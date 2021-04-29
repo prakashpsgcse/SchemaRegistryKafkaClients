@@ -24,7 +24,7 @@
         <appender-ref ref="STDOUT" />
     </logger>
     <logger name="com.prakash.kafka.clients" level="DEBUG"  additivity="false">
-<!--        <appender-ref ref="STDOUT" />-->
+        <appender-ref ref="STDOUT" />
         <appender-ref ref="FILE" />
     </logger>
 

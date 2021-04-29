@@ -1,10 +1,11 @@
+/home/prakash/Documents/git/SchemaRegistryKafkaClients/src/main/java/com/prakash/kafka/clients/AvroConsumer.java
 /home/prakash/Documents/git/SchemaRegistryKafkaClients/src/main/java/com/prakash/kafka/clients/ClusterInfoDeSerializer.java
 /home/prakash/Documents/git/SchemaRegistryKafkaClients/src/main/java/com/prakash/kafka/schema/ClusterInfoDeSerializer.java
 /home/prakash/Documents/git/SchemaRegistryKafkaClients/src/main/java/com/prakash/kafka/clients/ClusterInfo.java
 /home/prakash/Documents/git/SchemaRegistryKafkaClients/src/main/java/com/prakash/kafka/schema/ClusterInfo.java
 /home/prakash/Documents/git/SchemaRegistryKafkaClients/src/main/java/com/prakash/kafka/clients/ClusterInfoSerializer.java
+/home/prakash/Documents/git/SchemaRegistryKafkaClients/src/main/java/com/prakash/kafka/clients/AvroProducer.java
 /home/prakash/Documents/git/SchemaRegistryKafkaClients/src/main/java/com/prakash/schema/avro/ClusterInfo.java
 /home/prakash/Documents/git/SchemaRegistryKafkaClients/src/main/java/com/prakash/kafka/clients/ClusterInfoProducer.java
 /home/prakash/Documents/git/SchemaRegistryKafkaClients/src/main/java/com/prakash/kafka/clients/ClusterInfoConsumer.java
 /home/prakash/Documents/git/SchemaRegistryKafkaClients/src/main/java/com/prakash/kafka/schema/ClusterInfoConsumer.java
-/home/prakash/Documents/git/SchemaRegistryKafkaClients/src/main/java/com/example/models/avro/User.java

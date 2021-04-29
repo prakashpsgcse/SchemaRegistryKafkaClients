@@ -6,5 +6,7 @@
    {"name" : "name", "type" : "string", "doc" : "Name of the cluster"},
    {"name" : "kafkaUrl", "type" : "string", "doc" : "kafka url", "default": "localhost:9092"},
     {"name" : "zkUrl", "type" : "string", "doc" : "zookeeper url", "default": "localhost:2181"},
-     {"name" : "id", "type" : "int", "doc" : "dummy id", "default": "1"}  ]
+     {"name" : "id", "type" : "int", "doc" : "dummy id", "default": "1"},
+      {"name" : "kafkaNodes", "type" : "int", "doc" : "dummy id","default": "5"}
+  ]
 }
